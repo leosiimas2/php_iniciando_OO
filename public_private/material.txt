@@ -1,0 +1,6 @@
+        Public:
+    - Tem acesso em todo o projeto.
+
+        Private:
+    - Tem acesso apenas na classe declarada, necessitando de metodos
+    para retornar o valor.

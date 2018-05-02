@@ -1,0 +1,6 @@
+        Class Abstract:
+    - Um tamplate de classe, ou seja um molde para outras classes, podendo
+    colocar extends e metodos.
+
+        Function Abstract:
+    - Obriga as classes filhas a ter um molde igual ao pai;

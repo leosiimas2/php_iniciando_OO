@@ -1,0 +1,4 @@
+    Protect:
+
+    -Protege a variavel da classe pai, e libera na classe
+filho.
