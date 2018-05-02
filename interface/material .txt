@@ -1,0 +1,4 @@
+        Interface:
+    -Define um padrão em desenvolvimento para as classes, resumo
+    do que sera nescessario para a classe.
+    -Serve como planejamento para o projeto.
